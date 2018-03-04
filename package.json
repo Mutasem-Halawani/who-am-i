@@ -1,6 +1,6 @@
 {
   "name": "who-am-i",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Who Am I - FFC Project",
   "main": "server.js",
   "scripts": {
@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/Mutasem-Halawani/who-am-i#readme",
   "dependencies": {
-    "body-parser": "^1.18.2",
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "express-useragent": "^1.0.12"
   }
 }
