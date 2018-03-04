@@ -1,0 +1,31 @@
+{
+  "name": "who-am-i",
+  "version": "0.0.1",
+  "description": "Who Am I - FFC Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mutasem-Halawani/who-am-i.git"
+  },
+  "keywords": [
+    "Expressjs",
+    "Request",
+    "Header",
+    "Parser",
+    "Microservice",
+    "FFC"
+  ],
+  "author": "Mutasem Halawani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mutasem-Halawani/who-am-i/issues"
+  },
+  "homepage": "https://github.com/Mutasem-Halawani/who-am-i#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
